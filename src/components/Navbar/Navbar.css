@@ -1,0 +1,19 @@
+.barra{
+    background-color: #faf80c;
+    width: 100%;
+    margin: 0% 0% 0% 0%;
+}
+.nav-link{
+    font-size: 30px !important;
+    font-family: 'Bebas Neue', cursive;
+    color: black !important;
+}
+.nav-link .active{
+    color: black;
+}
+.container{
+    width: 100%;
+    margin: 0% 0% 0% 0%;
+
+}
+
