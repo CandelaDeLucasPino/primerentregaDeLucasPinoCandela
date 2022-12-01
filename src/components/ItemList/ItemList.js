@@ -1,9 +1,9 @@
 import "./Itemlist.css";
 
-function ItemList() {
+function ItemList(props) {
     return(
         <div>
-            <h1 className="title">Welcome to our shop!</h1>
+            <h1 className="title">{props.saludo}</h1>
         </div>
     )
 };
